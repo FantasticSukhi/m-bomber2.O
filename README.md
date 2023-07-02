@@ -20,7 +20,7 @@ Automatic update when new update available
 ![App Screenshot](https://github.com/jatinkalwar/m-bomber2.O/blob/main/Additional/Screenshot_2023-03-07-19-57-50-53_84d3000e3f4017145260f7618db1d683.jpg) ![App Screenshot](https://github.com/jatinkalwar/m-bomber2.O/blob/main/Additional/Screenshot_2023-03-07-19-57-58-87_84d3000e3f4017145260f7618db1d683.jpg) ![App Screenshot](https://github.com/jatinkalwar/m-bomber2.O/blob/main/Additional/Screenshot_2023-04-28-10-39-22-21_84d3000e3f4017145260f7618db1d683.jpg)
 ## Authors
 
-- [@theJatinKalwar](https://www.github.com/jatinkalwar)
+- [@FantasticSukhi](https://www.github.com/FantasticSukhi)
 
 
 ##  Termux Installation
@@ -35,14 +35,14 @@ pkg install pv -y
 pkg install figlet -y
 pkg install python -y
 pip install colorama
-git clone https://github.com/jatinkalwar/m-bomber2.O
+git clone https://github.com/FantaticSukhi/m-bomber2.O
 cd m-bomber2.O
 python bomber.sh
 ```
 ##  Termux Single Line Installation
 
 ```bash
-apt upgrade -y ; apt update -y ; pkg install git -y ; pkg install wget -y ; pkg install pv -y ; pkg install python ; pip install colorama ; pkg install figlet -y ; git clone https://GitHub.com/jatinkalwar/m-bomber2.O ; cd m-bomber2.O ; python bomber.sh
+apt upgrade -y ; apt update -y ; pkg install git -y ; pkg install wget -y ; pkg install pv -y ; pkg install python ; pip install colorama ; pkg install figlet -y ; git clone https://GitHub.com/FantasticSukhi/m-bomber2.O ; cd m-bomber2.O ; python bomber.sh
 ```
 
 ##  Linux Installation
@@ -55,7 +55,7 @@ sudo apt install wget -y
 sudo apt install pv -y
 sudo apt install figlet -y
 sudo pip install colorama
-git clone https://github.com/jatinkalwar/m-bomber2.O
+git clone https://github.com/FantasticSukhi/m-bomber2.O
 cd m-bomber2.O
 python bomber.sh
 ```
@@ -63,7 +63,7 @@ python bomber.sh
 ##  Linux Single Line Installation
 
 ```bash
-sudo apt-get upgrade -y ; sudo apt-get update -y ;sudo apt install wget -y ; sudo apt install pv -y ; sudo pip install colorama ; sudo apt install figlet -y ; git clone https://GitHub.com/jatinkalwar/m-bomber2.O ; cd ; ls ; cd m-bomber2.O ; python bomber.sh
+sudo apt-get upgrade -y ; sudo apt-get update -y ;sudo apt install wget -y ; sudo apt install pv -y ; sudo pip install colorama ; sudo apt install figlet -y ; git clone https://GitHub.com/FantasticSukhi/m-bomber2.O ; cd ; ls ; cd m-bomber2.O ; python bomber.sh
 ```
     
 ## FAQ
@@ -83,4 +83,4 @@ If you have any feedback, please reach out to us at instagram.com/Yourhackinghou
 
 ### Visitors :
 
-![Visitor Count](https://profile-counter.glitch.me/jatinkalwar/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/FantasticSukhicount.svg)
